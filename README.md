@@ -1,5 +1,23 @@
 # poicol
 
+## Create Information
+
+✨  Generating Nuxt.js project in poicol
+? Project name: poicol
+? Programming language: TypeScript
+? Package manager: Yarn
+? UI framework: Vuetify.js
+? Nuxt.js modules: Axios - Promise based HTTP client, Progressive Web App (PWA)
+? Linting tools: ESLint
+? Testing framework: Jest
+? Rendering mode: Universal (SSR / SSG)
+? Deployment target: Server (Node.js hosting)
+? Development tools: jsconfig.json (Recommended for VS Code if you're not using typescript), Semantic Pull Requests, Dependabot (For auto-updating dependencies, GitHub only)
+? Continuous integration: GitHub Actions (GitHub only)
+? What is your GitHub username? darum3
+? Version control system: Git
+
+
 ## Build Setup
 
 ```bash
